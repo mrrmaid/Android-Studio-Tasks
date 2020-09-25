@@ -1,5 +1,5 @@
-# Android-Studio-Task1
+### Android-Studio-Task1
 App with button which changes image and text
 
-# Android-Studio-Task2
+### Android-Studio-Task2
 App for calculating the price of coffee 
